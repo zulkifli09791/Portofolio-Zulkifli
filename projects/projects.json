@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Website Motivasi",
+    "desc": "Kumpulan Motivasi.",
+    "image": "webmotivasi",
+    "category": "Website",
+    "links": {
+      "view": "https://zulkifli09791.github.io/website-pemberi-mootivasi/",
+      "code": "https://github.com/zulkifli09791/website-pemberi-mootivasi"
+    }
+  },
+  {
+    "name": "Spotify Sederhana",
+    "desc": "Spotify Sederhana dengan tampilan menarik.",
+    "image": "spotifyweb",
+    "category": "Website",
+    "links": {
+      "view": "https://zulkifli09791.github.io/Spotify-Web/",
+      "code": "https://github.com/zulkifli09791/Spotify-Web"
+    }
+  },
+  {
+    "name": "Website Catur",
+    "desc": "Bermain Catur melawan bot.",
+    "image": "caturweb",
+    "category": "Website",
+    "links": {
+      "view": "https://zulkifli09791.github.io/Catur/",
+      "code": "https://github.com/zulkifli09791/Catur"
+    }
+  },
+  {
+    "name": "Kalkulator Sederhana",
+    "desc": "Kalkulator dengan warna yang menarik.",
+    "image": "kalkulatorweb",
+    "category": "Website",
+    "links": {
+      "view": " https://zulkifli09791.github.io/Kalkulator-Tes/",
+      "code": "https://github.com/zulkifli09791/Kalkulator-Tes"
+    }
+  },
+  {
+    "name": "Konversi Bilangan",
+    "desc": "Konversi bilangan desimal,biner,hexa, dan okta",
+    "image": "konversiweb",
+    "category": "Website",
+    "links": {
+      "view": "https://zulkifli09791.github.io/Web-Konversi-Bilangan/",
+      "code": "https://github.com/zulkifli09791/Web-Konversi-Bilangan"
+    }
+  },
+  {
+    "name": "Memori Card Game",
+    "desc": "Game cocokkan gambar sederhana untuk melatih ingatan.",
+    "image": "memorycard",
+    "category": "Website",
+    "links": {
+      "view": "https://zulkifli09791.github.io/Game-Sederhana/",
+      "code": "https://github.com/zulkifli09791/Game-Sederhana"
+    }
+  }
+]
